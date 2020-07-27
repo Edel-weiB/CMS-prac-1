@@ -10,6 +10,9 @@ body {
 .header {
     background-color: #193720;
     color: lightgray;
+}
+
+.header a {
     text-decoration: none;
 }
 
