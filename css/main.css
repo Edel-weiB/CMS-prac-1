@@ -1,3 +1,23 @@
+body {
+    background-color: #567158;
+}
+
 .view-main {
-    background-color: #ffe1e1;
+    background-color: white;
+    padding: 0px;
+}
+
+.footer {
+    background-color: #193720;
+    color: lightgray;
+    padding-top: 20px;
+}
+
+.footer sub-heading {
+    font-size: 20px;
+}
+
+.hide_bullets {
+    list-style: none;
+    padding-left: 0px;
 }
