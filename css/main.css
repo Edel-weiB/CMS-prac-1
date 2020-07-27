@@ -31,3 +31,8 @@ body {
     list-style: none;
     padding-left: 0px;
 }
+
+.image_logo_container {
+    margin: auto;
+    padding: 50px;
+}
