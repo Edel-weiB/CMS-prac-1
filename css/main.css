@@ -10,6 +10,7 @@ body {
 .header {
     background-color: #193720;
     color: lightgray;
+    text-decoration: none;
 }
 
 .footer {
