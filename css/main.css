@@ -7,6 +7,11 @@ body {
     padding: 0px;
 }
 
+.header {
+    background-color: #193720;
+    color: lightgray;
+}
+
 .footer {
     background-color: #193720;
     color: lightgray;
