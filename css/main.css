@@ -6,6 +6,7 @@ body {
     background-color: white;
     padding: 0px;
     min-height: 100vh;
+    z-index: 0;
 }
 
 .header {
@@ -40,4 +41,21 @@ body {
 
 .text-centre {
     text-align: center;
+}
+
+.bg-screenshot {
+    background: url("../images/background.PNG");
+    background-size: 100% auto;
+    filter: blur(4px);
+    display: block;
+    height: 10vh;
+}
+
+.bg-screenshot-2 {
+    background: url("../images/background.PNG");
+    background-size: 100% auto;
+    background-position-y: -10vh;
+    filter: blur(4px);
+    display: block;
+    height: 10vh;
 }
